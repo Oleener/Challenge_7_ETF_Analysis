@@ -53,6 +53,8 @@ python -m voila
 
 The following web browser should appear:
 ![image](https://github.com/Oleener/Challenge_7_ETF_Analysis/blob/main/Web%20Deployment/1.png)
+
+The following video displays my notebook deployed as a web application. 
 ![video](https://github.com/Oleener/Challenge_7_ETF_Analysis/blob/main/Web%20Deployment/etf_analyzer%20.mp4)
 
 ---
