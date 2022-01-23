@@ -1,5 +1,5 @@
 # ETF Analysis
-This is a Jupyter notebook that analyzes the performance of ETF (Exchange-traded fund) data which an SQL library stores along with Professionally styled and formatted interactive visualizations.
+This is a Jupyter notebook that analyzes the performance of ETF (Exchange-traded fund) data which an SQL library stores along with Professionally styled and formatted interactive visualizations. The notebook first analyzes a single asset in the ETF, optimizes data access with advanced SQL queries, Analyzes the ETF portfolio, and deploys the notebook as a web application. 
 
 ---
 
