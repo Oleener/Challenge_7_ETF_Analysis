@@ -43,7 +43,19 @@ Jupyter Lab
 Jupyter lab should launch in a web browser, if it doesnt select one one of the hyperlinks it provides copy it and paste it into a web browser page.  
 
 ---
+## Web Deployment 
 
+Using the Voila library to deploy the notebook as a web application run the follwing code in your terminal: 
+
+```
+python -m voila
+```
+
+The following web browser should appear:
+![image](https://github.com/Oleener/Challenge_7_ETF_Analysis/blob/main/Web%20Deployment/1.png)
+![video](https://github.com/Oleener/Challenge_7_ETF_Analysis/blob/main/Web%20Deployment/etf_analyzer%20.mp4)
+
+---
 ## Contributors
 
 Brought to you by Olena Shemedyuk.
